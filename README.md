@@ -17,7 +17,7 @@ This is a light-weight container This repository is a base sinatra project that 
 By default this will launch _src/app.rb_ .
 
 ## License
-Copyright [2014] [James Norman]
+Copyright 2014 James Norman
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
